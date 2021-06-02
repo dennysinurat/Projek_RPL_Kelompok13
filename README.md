@@ -54,6 +54,13 @@ Aplikasi Poly : Clinic Care in IPB University merupakan sebuah aplikasi berbasis
 ## User analysis
 [`^ Kembali Keatas ^`](#)
   * User story
+1. Melakukan Login menggunakan akun apps IPB
+2. Mendaftar untuk mendapatkan nomor antrian
+3. Melihat nomor antrian pasien Poliklinik IPB
+4. Chatting dengan dokter untuk berkonsultasi
+5. Melihat profil dokter yang ingin dikonsultasikan
+6. Sebagai pengembang, dapat membuat fitur berupa notifikasi/pemberitahuan nomor antrian
+7. Sebagai pihak rektorat, dapat mengetahui dan menangani data secara cepat 
 
 ## Spesifikasi teknis lingkungan pengembangan
 [`^ Kembali Keatas ^`](#)
