@@ -59,7 +59,7 @@ Aplikasi Poly : Clinic Care in IPB University merupakan sebuah aplikasi berbasis
   * Sebagai user, agar dapat mengetahui kualifikasi dokter yang menjalani praktek di Poliklinik IPB, saya dapat melihat profil dokter yang ingin saya konsultasikan.
   * Sebagai mahasiswa, saya dapat memesan obat secara online sehingga saya tidak perlu pergi ke lokasi. 
   * Sebagai user, agar dapat menggunakan aplikasi, saya dapat melakukan login atau sign up akun terlebih dahulu sebelum masuk ke aplikasi.
-  * Sebagai pengembang, agar civitas akademika IPB dapat mudah dalam berobat ke Poliklinik, saya dapat mengembangkan dan membuat aplikasi berupa notifikasi nomor antrian Poliklinik IPB dan konsultasi dokter secara online.
+  * Sebagai pengembang, agar civitas akademika IPB dapat lebih mudah dalam berobat ke Poliklinik, saya dapat mengembangkan dan membuat aplikasi berupa notifikasi nomor antrian Poliklinik IPB dan konsultasi dokter secara online.
   * Sebagai pihak rektorat, agar dapat mengetahui data tentang penyakit yang paling sering diderita oleh mahasiswa, saya dapat melihatnya pada sebuah aplikasi sehingga saya dapat menanganinya secara cepat. 
 
 ## Spesifikasi teknis lingkungan pengembangan
